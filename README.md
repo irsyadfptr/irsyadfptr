@@ -28,5 +28,4 @@
 <p align="">
  <a href="https://linkedin.com/in/irsyad-fakhri-putranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irsyad-fakhri-putranto" height="30" width="40" /></a>
 <a href="https://codepen.io/irsyadfptr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="irsyadfptr" height="30" width="40" /></a>
-<a href="https://twitter.com/insinyuroffun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="insinyuroffun" height="30" width="40" /></a>
 </p>
