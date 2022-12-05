@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Irsyad F. Putranto</h1>
-<h3 align="center">A Front-End Developer who try to be jack of all trades</h3>
 
 - 🔭 I’m currently working on [SG-EDTS](sg-edts.com)
 
-- 🌱 I’m currently learning **Backend, Mobile, and really looking forward to learn Web3 etc.**
+- 🌱 I’m currently learning **Frontend, Backend, Mobile, and really looking forward to learn Web3 etc.**
 
 - 📫 Reach me on **irsyadfakhrip@gmail.com**
 
